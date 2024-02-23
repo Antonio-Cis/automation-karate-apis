@@ -1,0 +1,16 @@
+Automatización API's
+- Uso del lenguaje Gherkin para la descripción de las pruebas
+- Integración de reportería con Cucumber
+- Se define la ejeucuión en paralelo para cada feature o scenario
+- Integración de Background  definiendo precondiciones para cada scenario
+- Manejo de Scenario Outline para cargar la información
+- Lectura de archivos json para interactuar con su información
+- Validación de la información de respuesta de los servicios
+
+Reportes
+- Gráfica y porcentaje del resultado de los Test (Passed/Failed/Pending)
+- Indican el tiempo de inicio, finalización y duración de los Tests
+- Tags definidos en cada .feature para su mayor control
+- Features y Scenarios ejecutados
+- Steps o pasos de cada Scenario con su tiempo de ejeución
+- Estadísticas de cada Scenario, Test y sus tiempos
